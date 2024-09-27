@@ -986,6 +986,7 @@ section.reasons {
         .content {
             width: 60vw;
             height: fit-content;
+            padding: .2rem;
     
             .small-head {
                 text-transform: uppercase;
